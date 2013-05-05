@@ -1,1 +1,4 @@
 github test
+
+test project info copied from github:
+git@github.com:gityao/githubtest.git
